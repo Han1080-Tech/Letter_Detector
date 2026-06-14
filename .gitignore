@@ -1,0 +1,10 @@
+#Entorno Virtual
+venv/
+__pycache__/
+
+#Datasets y Modelos
+*.npy
+*.h5
+
+#Archivos de Sistema
+.DS_Store
